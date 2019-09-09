@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <h1>HELLO WORLD</h1>
-      <Greeting food="bread" beverage="water" />
+      <Greeting food="bread" beverage="water" />.
       <Greeting food="kimchi" beverage="saida" />
       <Greeting food="meet" beverage="cola" />
     </div>
